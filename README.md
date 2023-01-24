@@ -135,7 +135,7 @@ The EmonTx Arduino shield is not compatible with other Arduino shields that use 
 
 ### Pin use
 
-![](img/pin_use.png)
+![](img/Pin_use.png)
 
 ## Example Arduino Sketches
 
